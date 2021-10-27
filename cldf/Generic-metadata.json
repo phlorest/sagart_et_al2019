@@ -19,13 +19,13 @@
         {
             "rdf:about": "https://github.com/D-PLACE/dplace-tree-sagart_et_al2019",
             "rdf:type": "prov:Entity",
-            "dc:created": "49311d8",
+            "dc:created": "5dacad9",
             "dc:title": "Repository"
         },
         {
             "rdf:about": "https://github.com/glottolog/glottolog",
             "rdf:type": "prov:Entity",
-            "dc:created": "v4.4-50-g7e36072d31",
+            "dc:created": "v4.4",
             "dc:title": "Glottolog"
         }
     ],
@@ -207,6 +207,19 @@
                         "dc:description": "The data for this parameter is stored at 1-based index {ID} of the sequences in the DATA block of the Nexus file specified here. (See https://en.wikipedia.org/wiki/Nexus_file)",
                         "propertyUrl": "http://purl.org/dc/terms/relation",
                         "name": "Nexus_File"
+                    },
+                    {
+                        "datatype": {
+                            "base": "string",
+                            "format": "[0-9]+"
+                        },
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#concepticonReference",
+                        "valueUrl": "http://concepticon.clld.org/parameters/{Concepticon_ID}",
+                        "name": "Concepticon_ID"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "Concepticon_Gloss"
                     }
                 ],
                 "primaryKey": [

@@ -12,7 +12,7 @@ setup(
         ]
     },
     install_requires=[
-        'cldfbench',
+        'phlorest',
     ],
     extras_require={
         'test': [
