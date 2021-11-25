@@ -7,19 +7,27 @@
     ],
     "dc:bibliographicCitation": "Sagart L, Jacques G, Lai Y, Ryder RJ, Thouzeau V, Greenhill SJ, List J- M. 2019 Dated language phylogenies shed light on the ancestry of Sino-Tibetan. Proceedings of the National Academy of Sciences, 201817972.",
     "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#Generic",
-    "dc:hasPart": {
-        "dc:relation": "data.nex",
-        "dc:description": "The data underlying the analysis which created the phylogeny",
-        "dc:format": "https://en.wikipedia.org/wiki/Nexus_file"
-    },
-    "dc:identifier": "http://dx.doi.org/10.1073/pnas.1817972116",
+    "dc:identifier": "https://doi.org/10.1073/pnas.1817972116",
+    "dc:license": "https://creativecommons.org/licenses/by/2.0/",
     "dc:source": "sources.bib",
-    "dcat:accessURL": "https://github.com/D-PLACE/dplace-tree-sagart_et_al2019",
+    "dc:subject": {
+        "family": "Sino-Tibetan [sino1245]",
+        "analysis": "bayesian",
+        "scaling": "years (rescaled from millennia)"
+    },
+    "dc:title": "Phlorest phylogeny derived from Sagart et al. 2019 'Sino-Tibetan (Sagart et al. 2019)'",
+    "dcat:accessURL": "https://github.com/phlorest/sagart_et_al2019",
     "prov:wasDerivedFrom": [
         {
-            "rdf:about": "https://github.com/D-PLACE/dplace-tree-sagart_et_al2019",
+            "rdf:about": "data.nex",
             "rdf:type": "prov:Entity",
-            "dc:created": "5dacad9",
+            "dc:description": "The data underlying the analysis which created the phylogeny",
+            "dc:format": "https://en.wikipedia.org/wiki/Nexus_file"
+        },
+        {
+            "rdf:about": "https://github.com/phlorest/sagart_et_al2019",
+            "rdf:type": "prov:Entity",
+            "dc:created": "537f0e2",
             "dc:title": "Repository"
         },
         {
@@ -32,7 +40,7 @@
     "prov:wasGeneratedBy": [
         {
             "dc:title": "python",
-            "dc:description": "3.8.10"
+            "dc:description": "3.9.6"
         },
         {
             "dc:title": "python-packages",
