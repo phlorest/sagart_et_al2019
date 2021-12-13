@@ -13,9 +13,9 @@
     "dc:subject": {
         "family": "Sino-Tibetan [sino1245]",
         "analysis": "bayesian",
-        "scaling": "years (rescaled from millennia)"
+        "scaling": "millennia"
     },
-    "dc:title": "Phlorest phylogeny derived from Sagart et al. 2019 'Sino-Tibetan (Sagart et al. 2019)'",
+    "dc:title": "Phlorest phylogeny derived from Sagart et al.2019'Sino-Tibetan (Sagart et al. 2019)'",
     "dcat:accessURL": "https://github.com/phlorest/sagart_et_al2019",
     "prov:wasDerivedFrom": [
         {
@@ -27,7 +27,7 @@
         {
             "rdf:about": "https://github.com/phlorest/sagart_et_al2019",
             "rdf:type": "prov:Entity",
-            "dc:created": "537f0e2",
+            "dc:created": "4abb90b",
             "dc:title": "Repository"
         },
         {
