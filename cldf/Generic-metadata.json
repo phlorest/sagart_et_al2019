@@ -27,13 +27,13 @@
         {
             "rdf:about": "https://github.com/phlorest/sagart_et_al2019",
             "rdf:type": "prov:Entity",
-            "dc:created": "4abb90b",
+            "dc:created": "6feb826",
             "dc:title": "Repository"
         },
         {
             "rdf:about": "https://github.com/glottolog/glottolog",
             "rdf:type": "prov:Entity",
-            "dc:created": "v4.4",
+            "dc:created": "v4.5",
             "dc:title": "Glottolog"
         }
     ],
