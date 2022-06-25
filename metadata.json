@@ -8,7 +8,7 @@
     "year": 2019,
     "scaling": "millennia",
     "analysis": "bayesian",
-    "family": "sino1245",
+    "family": "Sino-Tibetan",
     "data": "https://github.com/lexibank/sagartst",
     "cldf": "https://github.com/lexibank/sagartst"
 }
