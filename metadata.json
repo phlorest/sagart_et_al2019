@@ -1,7 +1,7 @@
 {
     "id": "sagart_et_al2019",
     "license": "https://creativecommons.org/licenses/by/2.0/",
-    "url": "http://dx.doi.org/10.1073/pnas.1817972116",
+    "url": "https://doi.org/10.1073/pnas.1817972116",
     "citation": "Sagart L, Jacques G, Lai Y, Ryder RJ, Thouzeau V, Greenhill SJ, List J- M. 2019 Dated language phylogenies shed light on the ancestry of Sino-Tibetan. Proceedings of the National Academy of Sciences, 201817972.",
     "name": "Sino-Tibetan (Sagart et al. 2019)",
     "author": "Sagart et al.",
@@ -9,6 +9,5 @@
     "scaling": "millennia",
     "analysis": "bayesian",
     "family": "Sino-Tibetan",
-    "data": "https://github.com/lexibank/sagartst",
-    "cldf": "https://github.com/lexibank/sagartst"
+    "cldf": "https://doi.org/10.5281/zenodo.1465396"
 }

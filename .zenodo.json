@@ -1,5 +1,5 @@
 {
-    "title": null,
+    "title": "Phlorest phylogeny derived from Sagart et al. 2019 'Sino-Tibetan (Sagart et al. 2019)'",
     "access_right": "open",
     "keywords": [
         "cldf:Generic",
@@ -10,6 +10,35 @@
     "communities": [
         {
             "identifier": "dplace"
+        }
+    ],
+    "creators": [
+        {
+            "name": "Sagart, Laurent"
+        },
+        {
+            "name": "Jacques, Guillaume"
+        },
+        {
+            "name": "Lai, Yunfan"
+        },
+        {
+            "name": "Ryder, Robin J."
+        },
+        {
+            "name": "Thouzeau, Valentin"
+        },
+        {
+            "name": "List, Johann-Mattis"
+        },
+        {
+            "name": "Simon J. Greenhill"
+        }
+    ],
+    "contributors": [
+        {
+            "name": "Simon J. Greenhill",
+            "type": "Other"
         }
     ]
 }

@@ -25,9 +25,15 @@
             "dc:format": "https://en.wikipedia.org/wiki/Nexus_file"
         },
         {
+            "rdf:about": "https://doi.org/10.5281/zenodo.1465396",
+            "rdf:type": "prov:Entity",
+            "dc:description": "The CLDF dataset from which the data underlying the analysis was derived",
+            "dc:format": "https://cldf.clld.org"
+        },
+        {
             "rdf:about": "https://github.com/phlorest/sagart_et_al2019",
             "rdf:type": "prov:Entity",
-            "dc:created": "8bbd962",
+            "dc:created": "973ebcb",
             "dc:title": "Repository"
         },
         {
