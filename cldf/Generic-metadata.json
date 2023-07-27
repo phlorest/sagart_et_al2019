@@ -15,7 +15,7 @@
         "analysis": "bayesian",
         "scaling": "millennia"
     },
-    "dc:title": "Phlorest phylogeny derived from Sagart et al. 2019 'Sino-Tibetan (Sagart et al. 2019)'",
+    "dc:title": "Phlorest phylogeny derived from Sagart et al. 2019 'Dated language phylogenies shed light on the ancestry of Sino-Tibetan'",
     "dcat:accessURL": "https://github.com/phlorest/sagart_et_al2019",
     "prov:wasDerivedFrom": [
         {
@@ -33,7 +33,7 @@
         {
             "rdf:about": "https://github.com/phlorest/sagart_et_al2019",
             "rdf:type": "prov:Entity",
-            "dc:created": "973ebcb",
+            "dc:created": "65d6e6a",
             "dc:title": "Repository"
         },
         {
