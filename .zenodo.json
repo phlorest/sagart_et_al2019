@@ -1,0 +1,44 @@
+{
+    "title": "Phlorest phylogeny derived from Sagart et al. 2019 'Dated language phylogenies shed light on the ancestry of Sino-Tibetan'",
+    "access_right": "open",
+    "keywords": [
+        "cldf:Generic",
+        "linguistics"
+    ],
+    "upload_type": "dataset",
+    "description": "<p>Cite the source of the dataset as:</p>\n\n<blockquote>\n<p>Sagart L, Jacques G, Lai Y, Ryder RJ, Thouzeau V, Greenhill SJ, List J- M. 2019 Dated language phylogenies shed light on the ancestry of Sino-Tibetan. Proceedings of the National Academy of Sciences, 201817972.</p>\n</blockquote>",
+    "communities": [
+        {
+            "identifier": "dplace"
+        }
+    ],
+    "creators": [
+        {
+            "name": "Sagart, Laurent"
+        },
+        {
+            "name": "Jacques, Guillaume"
+        },
+        {
+            "name": "Lai, Yunfan"
+        },
+        {
+            "name": "Ryder, Robin J."
+        },
+        {
+            "name": "Thouzeau, Valentin"
+        },
+        {
+            "name": "List, Johann-Mattis"
+        },
+        {
+            "name": "Simon J. Greenhill"
+        }
+    ],
+    "contributors": [
+        {
+            "name": "Simon J. Greenhill",
+            "type": "Other"
+        }
+    ]
+}

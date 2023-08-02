@@ -1,4 +1,6 @@
-# Dataset sagart_et_al2019
+# Phlorest phylogeny derived from Sagart et al. 2019 'Dated language phylogenies shed light on the ancestry of Sino-Tibetan'
+
+[![CLDF validation](https://github.com/phlorest/sagart_et_al2019/workflows/CLDF-validation/badge.svg)](https://github.com/phlorest/sagart_et_al2019/actions?query=workflow%3ACLDF-validation)
 
 ## How to cite
 
@@ -9,8 +11,12 @@ If you use these data please cite
 
 ## Description
 
+A [Phlorest phylogeny](https://github.com/phlorest) of the Sino-Tibetan language family computed from a bayesian analysis scaled by millennia.
 
-Available online at http://dx.doi.org/10.1073/pnas.1817972116
+
+This dataset is licensed under a https://creativecommons.org/licenses/by/2.0/ license
+
+Source available online at https://doi.org/10.1073/pnas.1817972116
 
 
 ## CLDF Datasets
@@ -21,4 +27,4 @@ The following CLDF datasets are available in [cldf](cldf):
 
 ## Summary Tree
 
-![summary](./summary_tree.svg)
+![summary](https://raw.githubusercontent.com/phlorest/sagart_et_al2019/main/summary_tree.svg)
