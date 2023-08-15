@@ -1,6 +1,7 @@
 # Phlorest phylogeny derived from Sagart et al. 2019 'Dated language phylogenies shed light on the ancestry of Sino-Tibetan'
 
 [![CLDF validation](https://github.com/phlorest/sagart_et_al2019/workflows/CLDF-validation/badge.svg)](https://github.com/phlorest/sagart_et_al2019/actions?query=workflow%3ACLDF-validation)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8250294.svg)](https://doi.org/10.5281/zenodo.8250294)
 
 ## How to cite
 
