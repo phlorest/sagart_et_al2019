@@ -8,7 +8,7 @@
     "dc:bibliographicCitation": "Sagart L, Jacques G, Lai Y, Ryder RJ, Thouzeau V, Greenhill SJ, List J- M. 2019 Dated language phylogenies shed light on the ancestry of Sino-Tibetan. Proceedings of the National Academy of Sciences, 201817972.",
     "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#Generic",
     "dc:identifier": "https://doi.org/10.1073/pnas.1817972116",
-    "dc:license": "https://creativecommons.org/licenses/by/2.0/",
+    "dc:license": "https://creativecommons.org/licenses/by/4.0/",
     "dc:source": "sources.bib",
     "dc:subject": {
         "family": "Sino-Tibetan",
@@ -33,7 +33,7 @@
         {
             "rdf:about": "https://github.com/phlorest/sagart_et_al2019",
             "rdf:type": "prov:Entity",
-            "dc:created": "65d6e6a",
+            "dc:created": "addb935",
             "dc:title": "Repository"
         },
         {
@@ -46,7 +46,7 @@
     "prov:wasGeneratedBy": [
         {
             "dc:title": "python",
-            "dc:description": "3.10.6"
+            "dc:description": "3.10.12"
         },
         {
             "dc:title": "python-packages",

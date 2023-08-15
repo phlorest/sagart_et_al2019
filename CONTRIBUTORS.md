@@ -8,4 +8,6 @@ Lai, Yunfan                    |  | author | Author
 Ryder, Robin J.                |  | author | Author
 Thouzeau, Valentin             |  | author | Author
 List, Johann-Mattis            |  | author | Author
-Simon J. Greenhill             | @SimonGreenhill | author, maintainer | Author, Phlorest
+Simon J. Greenhill             | @SimonGreenhill | author, maintainer | Author, Editor
+Robert Forkel          | @xrotwang | maintainer | Editor
+
