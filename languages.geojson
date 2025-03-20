@@ -1,0 +1,692 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.7741,
+          27.3694
+        ]
+      },
+      "properties": {
+        "Name": "BodicTshangla",
+        "Glottocode": "tsha1245",
+        "Glottolog_Name": "Tshangla"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          97.7438,
+          24.3479
+        ]
+      },
+      "properties": {
+        "Name": "BurmishAchang",
+        "Glottocode": "acha1249",
+        "Glottolog_Name": "Longchuan Achang"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          98.3643,
+          24.1726
+        ]
+      },
+      "properties": {
+        "Name": "BurmishAtsi",
+        "Glottocode": "zaiw1241",
+        "Glottolog_Name": "Zaiwa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          97.9183,
+          24.2142
+        ]
+      },
+      "properties": {
+        "Name": "BurmishBola",
+        "Glottocode": "pela1242",
+        "Glottolog_Name": "Pela"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          98.5481,
+          26.0992
+        ]
+      },
+      "properties": {
+        "Name": "BurmishLashi",
+        "Glottocode": "lash1243",
+        "Glottolog_Name": "Lashi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          99.8338,
+          24.942535
+        ]
+      },
+      "properties": {
+        "Name": "BurmishMaru",
+        "Glottocode": "maru1249",
+        "Glottolog_Name": "Maru"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.897306,
+          21.161961
+        ]
+      },
+      "properties": {
+        "Name": "BurmishOldBurmese",
+        "Glottocode": "oldb1235",
+        "Glottolog_Name": "Old Burmese"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.9665,
+          20.7926
+        ]
+      },
+      "properties": {
+        "Name": "BurmishRangoon",
+        "Glottocode": "nucl1310",
+        "xd_ids": [
+          "xd709"
+        ],
+        "Glottolog_Name": "Burmese"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          97.9052,
+          24.5458
+        ]
+      },
+      "properties": {
+        "Name": "BurmishXiandao",
+        "Glottocode": "xian1249",
+        "Glottolog_Name": "Xiandao"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.9017,
+          27.7206
+        ]
+      },
+      "properties": {
+        "Name": "ChepangChepang",
+        "Glottocode": "chep1245",
+        "Glottolog_Name": "Chepang"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.8208,
+          22.8735
+        ]
+      },
+      "properties": {
+        "Name": "ChinHakha",
+        "Glottocode": "haka1240",
+        "Glottolog_Name": "Haka Chin"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.8803,
+          28.4993
+        ]
+      },
+      "properties": {
+        "Name": "DengDarangTaraon",
+        "Glottocode": "diga1241",
+        "Glottolog_Name": "Tawra"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.6472,
+          29.4473
+        ]
+      },
+      "properties": {
+        "Name": "DengYidu",
+        "Glottocode": "idum1241",
+        "Glottolog_Name": "Idu"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.462,
+          25.2954
+        ]
+      },
+      "properties": {
+        "Name": "GaroGaro",
+        "Glottocode": "garo1247",
+        "xd_ids": [
+          "xd696"
+        ],
+        "Glottolog_Name": "Garo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          97.3278,
+          25.4634
+        ]
+      },
+      "properties": {
+        "Name": "JingphoJingpho",
+        "Glottocode": "kach1280",
+        "Glottolog_Name": "Southern Jinghpaw"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.0462,
+          25.7317
+        ]
+      },
+      "properties": {
+        "Name": "Karbi",
+        "Glottocode": "karb1241",
+        "xd_ids": [
+          "xd704"
+        ],
+        "Glottolog_Name": "Hills Karbi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.3949,
+          27.3323
+        ]
+      },
+      "properties": {
+        "Name": "KirantiBahing",
+        "Glottocode": "bahi1252",
+        "Glottolog_Name": "Bahing"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.04738,
+          27.12147
+        ]
+      },
+      "properties": {
+        "Name": "KirantiBantawa",
+        "Glottocode": "bant1281",
+        "Glottolog_Name": "Bantawa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.1227,
+          27.3047
+        ]
+      },
+      "properties": {
+        "Name": "KirantiHayu",
+        "Glottocode": "wayu1241",
+        "Glottolog_Name": "Wayu"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.5053,
+          27.3912
+        ]
+      },
+      "properties": {
+        "Name": "KirantiKhaling",
+        "Glottocode": "khal1275",
+        "Glottolog_Name": "Khaling"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.5717,
+          27.1606
+        ]
+      },
+      "properties": {
+        "Name": "KirantiKulung",
+        "Glottocode": "kulu1253",
+        "Glottolog_Name": "Kulung (Nepal)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.8859,
+          27.2703
+        ]
+      },
+      "properties": {
+        "Name": "KirantiLimbu",
+        "Glottocode": "limb1266",
+        "Glottolog_Name": "Limbu"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.6063,
+          27.5389
+        ]
+      },
+      "properties": {
+        "Name": "KirantiThulung",
+        "Glottocode": "thul1246",
+        "Glottolog_Name": "Thulung"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          98.94,
+          26.91
+        ]
+      },
+      "properties": {
+        "Name": "LoloishLisu",
+        "Glottocode": "lisu1250",
+        "Glottolog_Name": "Lisu"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.6247,
+          22.6138
+        ]
+      },
+      "properties": {
+        "Name": "MizoLushai",
+        "Glottocode": "lush1249",
+        "xd_ids": [
+          "xd708"
+        ],
+        "Glottolog_Name": "Mizo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          98.49449,
+          28.00792
+        ]
+      },
+      "properties": {
+        "Name": "NungicDulong",
+        "Glottocode": "drun1238",
+        "Glottolog_Name": "Drung"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.983,
+          30.7416
+        ]
+      },
+      "properties": {
+        "Name": "QiangicZhaba",
+        "Glottocode": "zhab1238",
+        "Glottolog_Name": "Zhaba"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.1689,
+          25.8248
+        ]
+      },
+      "properties": {
+        "Name": "Rabha",
+        "Glottocode": "rabh1238",
+        "Glottolog_Name": "Rabha"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.72,
+          31.1026
+        ]
+      },
+      "properties": {
+        "Name": "rGyalrongDaofu",
+        "Glottocode": "horp1239",
+        "Glottolog_Name": "Stau-Dgebshes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.36,
+          32.1
+        ]
+      },
+      "properties": {
+        "Name": "rGyalrongJaphug",
+        "Glottocode": "japh1234",
+        "Glottolog_Name": "Japhug"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.660664,
+          31.590536
+        ]
+      },
+      "properties": {
+        "Name": "rGyalrongMaerkang",
+        "Glottocode": "situ1238",
+        "Glottolog_Name": "Situ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.633333,
+          23.666667
+        ]
+      },
+      "properties": {
+        "Name": "SiniticChaozhou",
+        "Glottocode": "chao1238",
+        "Glottolog_Name": "Chaozhou"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.9476548,
+          23.1253503
+        ]
+      },
+      "properties": {
+        "Name": "SiniticGuangzhou",
+        "Glottocode": "guan1279",
+        "Glottolog_Name": "Guangzhou"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.0,
+          25.0
+        ]
+      },
+      "properties": {
+        "Name": "SiniticLonggang",
+        "Glottocode": "hakk1236",
+        "Glottolog_Name": "Hakka Chinese"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.32,
+          36.12
+        ]
+      },
+      "properties": {
+        "Name": "SiniticOldChinese",
+        "Glottocode": "oldc1244",
+        "Glottolog_Name": "Old Chinese"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.0,
+          25.0
+        ]
+      },
+      "properties": {
+        "Name": "SiniticXingning",
+        "Glottocode": "hakk1236",
+        "Glottolog_Name": "Hakka Chinese"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.246464,
+          38.894904
+        ]
+      },
+      "properties": {
+        "Name": "Tangut",
+        "Glottocode": "tang1334",
+        "Glottolog_Name": "Tangut"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.066429,
+          28.61433
+        ]
+      },
+      "properties": {
+        "Name": "TaniBokar",
+        "Glottocode": "boka1249",
+        "Glottolog_Name": "Bokar-Ramo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.485,
+          34.5177
+        ]
+      },
+      "properties": {
+        "Name": "TibetanAlike",
+        "Glottocode": "amdo1237",
+        "Glottolog_Name": "Amdo Tibetan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.7062,
+          31.9313
+        ]
+      },
+      "properties": {
+        "Name": "TibetanBatang",
+        "Glottocode": "kham1282",
+        "Glottolog_Name": "Khams Tibetan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.01,
+          29.24
+        ]
+      },
+      "properties": {
+        "Name": "TibetanOldTibetan",
+        "Glottocode": "clas1254",
+        "Glottolog_Name": "Classical Tibetan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.485,
+          34.5177
+        ]
+      },
+      "properties": {
+        "Name": "TibetanXiahe",
+        "Glottocode": "amdo1237",
+        "Glottolog_Name": "Amdo Tibetan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.9596,
+          32.2168
+        ]
+      },
+      "properties": {
+        "Name": "TibetoKinauriBunan",
+        "Glottocode": "gahr1239",
+        "Glottolog_Name": "Bunan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.63653,
+          29.92002
+        ]
+      },
+      "properties": {
+        "Name": "TibetoKinauriByangsi",
+        "Glottocode": "byan1241",
+        "Glottolog_Name": "Byangsi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.567,
+          30.528
+        ]
+      },
+      "properties": {
+        "Name": "TibetoKinauriRongpo",
+        "Glottocode": "rong1264",
+        "Glottolog_Name": "Rongpo"
+      }
+    }
+  ]
+}
