@@ -8,7 +8,7 @@ import phlorest
 class FixNexus:
     def __init__(self):
         self.c = collections.Counter()
-        self.p = re.compile('\s+(?P<num>[0-9]+)\s+(?P<concept>[^,]+),?')
+        self.p = re.compile(r'\s+(?P<num>[0-9]+)\s+(?P<concept>[^,]+),?')
 
     def __call__(self, s):
         lines = []
