@@ -33,7 +33,7 @@
         {
             "rdf:about": "https://github.com/phlorest/sagart_et_al2019",
             "rdf:type": "prov:Entity",
-            "dc:created": "v1.2-6-g0a8d860",
+            "dc:created": "v1.2-8-g89094f8",
             "dc:title": "Repository"
         },
         {
